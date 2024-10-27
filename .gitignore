@@ -1,0 +1,30 @@
+# Директории сборки
+/build/
+bin/
+
+# Директории зависимостей
+/.idea/
+*.iml
+/.classpath
+/.project
+/.settings/
+*.jar
+*.war
+*.ear
+
+# Файлы временных данных
+*.class
+*.log
+*.tmp
+*.swp
+*.swo
+
+# Файлы окружения
+.env
+
+# Системные файлы
+.DS_Store
+Thumbs.db
+
+# Прочие
+*.user
